@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://cdn.hackernoon.com/images/hzjh3zjk.gif)
+[![MasterHead](https://www.intersystemsuki.com/wp-content/uploads/2020/06/business-animation.gif)
 <h1 align="center">Hi 👋, I'm Jiniya Xavier</h1>
 <h3 align="center">An Aspiring Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
