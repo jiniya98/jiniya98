@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 [![MasterHead](https://www.intersystemsuki.com/wp-content/uploads/2020/06/business-animation.gif)
 <h1 align="center">Hi 👋, I'm Jiniya Xavier</h1>
-<h3 align="center">An Aspiring Data Analyst from India</h3>
+<h3 align="center">An Aspiring Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-- 🔭 I’m currently working on **Flight Price Prediction**
+- 🔭 I’m currently working on **Exploratory Data Analysis:Optimising NYC Taxi Operations**
 
-- 🌱 I’m currently learning **SQL, Python, Advanced Excel, Machine Learning and Tableau**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jiniya98](https://github.com/jiniya98)
 
