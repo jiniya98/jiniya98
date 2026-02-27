@@ -19,9 +19,22 @@ Here are some ideas to get you started:
 <h3 align="center">An Aspiring Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-- 🔭 I’m currently working on **Exploratory Data Analysis:Optimising NYC Taxi Operations**
+- 🔭 Currently building expertise in Data Science & AI, focusing on real-world business problem solving using analytics and machine learning techniques
 
-- 🌱 I’m currently learning **Python**
+- 🌱 Actively developing strong foundations in Python for Data Analysis and Modeling, including data cleaning, transformation, feature engineering, and building analytical models.
+- 📊 Learning to transform raw data into structured data models using:
+
+Data preprocessing techniques
+
+Exploratory Data Analysis (EDA)
+
+Statistical thinking
+
+Feature selection & engineering
+
+Model evaluation concepts
+
+🧠 Understanding how to convert business problems into data-driven solutions through structured analytical workflows.
 
 - 👨‍💻 All of my projects are available at [https://github.com/jiniya98](https://github.com/jiniya98)
 
